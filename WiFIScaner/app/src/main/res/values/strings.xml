@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WiFiScaner</string>
+    <string name="action_settings_scan">Scan</string>
+
+    <string name="name">Name</string>
+    <string name="security">Security</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="scan">SCAN</string>
+</resources>
